@@ -13,7 +13,7 @@ module.exports = function elinNpc(dispatch) {
 	
 	dispatch.hook('S_SPAWN_NPC', 8 , event => {
 		if(!enabled) return
-		if(event.villager) {
+		if(event.villager && event.owner == 0) {
 			event.unk1 = shapeId[Math.floor(Math.random() * length)]
 			return true
 		}
