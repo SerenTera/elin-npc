@@ -5,6 +5,7 @@ Changes all villagers (town NPC) to Elins
 Requires:
 - Tera Proxy
 - Command Module
+- S_SPAWN_NPC version 8 (Update tera-data if you have errors with this!)
 
 Supports: 
 - Caali's Proxy
