@@ -1,6 +1,11 @@
 # elin-npc
 Changes all villagers (town NPC) to Elins
 
+## Disclaimer
+Yes, they still have their original voices
+
+And I hope theres no serious bugs rofl
+
 ## Basic Info
 Requires:
 - Tera Proxy
