@@ -6,6 +6,13 @@ Yes, they still have their original voices
 
 And I hope theres no serious bugs rofl
 
+## ShapeId list
+Theres a handy list here of shapeId and it's description from Datacenter: 
+
+<https://raw.githubusercontent.com/SerenTera/elin-npc/master/shapeId.json>
+
+To look for stuff, just type their name and search it up. Elins are Popori_F etc.... This is the best I can do for now.
+
 ## Basic Info
 Requires:
 - Tera Proxy
@@ -14,6 +21,7 @@ Requires:
 
 Supports: 
 - Caali's Proxy
+
 
 ## Commands
 `elinnpc`: Toggles enable/disable of this module
