@@ -16,10 +16,10 @@ module.exports = function elinNpc(dispatch) {
 		inDungeon = event.zone > 9000
 	})
 	
-	dispatch.hook('S_SPAWN_NPC', 8 , event => {
+	dispatch.hook('S_SPAWN_NPC', 9 , event => {
 		if(!enabled || inDungeon) return
 		if(event.villager && event.owner == 0) {
-			event.unk1 = shapeId[Math.floor(Math.random() * length)]
+			event.shapeId = shapeId[Math.floor(Math.random() * length)]
 			return true
 		}
 	})

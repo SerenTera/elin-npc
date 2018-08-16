@@ -1,14 +1,14 @@
 {
     "files": {
-        "config.json": {
+       "config.json": {
 			"overwrite":false,
 			"hash":"0939c384e7556e9dc3a0b04bb4804f762111977bdc59e901011883262b48f482"
 		},
-        "index.js": "85a656683e866dae683caab6a8c28c54d18124f23fa77aa787c3e341a10efbd2",
+        "index.js": "64d128775ccbff45cbbc8d84f2806483d4a831f9566e8e8f55f44690fefe1ee1",
         "module.json": "d71c8e67f2e95d20a61a7d0a8169fce65d11fc7c0c9efa8c48160d8a041edb54"
     },
     "defs": {
         "S_LOAD_TOPO": 3,
-        "S_SPAWN_NPC": 8
+        "S_SPAWN_NPC": 9
     }
 }
