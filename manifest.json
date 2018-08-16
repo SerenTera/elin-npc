@@ -1,20 +1,14 @@
 {
     "files": {
-        "config.json": {
+       "config.json": {
 			"overwrite":false,
-			"hash": "d878ff05d1a2b1bdb98f7af51a85ed98f99a5c6f51e71ba027ffb6a83ef46a65"
+			"hash":"0939c384e7556e9dc3a0b04bb4804f762111977bdc59e901011883262b48f482"
 		},
-		"npcConfig.js": {
-			"overwrite":false,
-			"hash":"2ae47f58f2bb5168609ee2e0084a80ff4c703bb3798b3237f0f183bf67316ca5"
-		}
-        "index.js": "eb4462e11d732b30986ded7bf19e88aad3e7a5b51ef5e1a97774f18299e361b7",
-        "module.json": "769db2a40fcae5ba3e53f1cd31a0119d7fb816fb0b107ea21ab0f025a1e241f3"
+        "index.js": "64d128775ccbff45cbbc8d84f2806483d4a831f9566e8e8f55f44690fefe1ee1",
+        "module.json": "d71c8e67f2e95d20a61a7d0a8169fce65d11fc7c0c9efa8c48160d8a041edb54"
     },
     "defs": {
-        "S_LOGIN": 10,
-        "S_SPAWN_NPC": 9,
         "S_LOAD_TOPO": 3,
-        "S_DESPAWN_NPC": 3
+        "S_SPAWN_NPC": 9
     }
 }
