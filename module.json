@@ -1,3 +1,7 @@
 {
+	"disableAutoUpdate": false,
+	"options": {
+		"niceName":"Elin Npc"
+	},
     "servers": ["https://raw.githubusercontent.com/SerenTera/elin-npc/master/"]
 }

@@ -1,11 +1,11 @@
 {
     "files": {
-       "config.json": {
-			"overwrite":false,
-			"hash":"0939c384e7556e9dc3a0b04bb4804f762111977bdc59e901011883262b48f482"
+        "config.json": {
+			"hash":"0939c384e7556e9dc3a0b04bb4804f762111977bdc59e901011883262b48f482",
+			"overwrite":false
 		},
-        "index.js": "64d128775ccbff45cbbc8d84f2806483d4a831f9566e8e8f55f44690fefe1ee1",
-        "module.json": "d71c8e67f2e95d20a61a7d0a8169fce65d11fc7c0c9efa8c48160d8a041edb54"
+        "index.js": "38c7bb07e3eebaa410368ecd112dde2913a7faad189bd20c158c46732a8840d7",
+        "module.json": "f849c36bb75e4547beb933b3d82b6a410afc09070024d73127bd5b16cd67dd3b"
     },
     "defs": {
         "S_LOAD_TOPO": 3,
