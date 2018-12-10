@@ -5,7 +5,7 @@
 			"overwrite":false
 		},
         "index.js": "38c7bb07e3eebaa410368ecd112dde2913a7faad189bd20c158c46732a8840d7",
-        "module.json": "f849c36bb75e4547beb933b3d82b6a410afc09070024d73127bd5b16cd67dd3b"
+        "module.json": "9bbff48f4453d423b38513198c6fbf6782da70bb931a455b5ce8677b15693182"
     },
     "defs": {
         "S_LOAD_TOPO": 3,

@@ -1,7 +1,11 @@
 {
-	"disableAutoUpdate": false,
-	"options": {
-		"niceName":"Elin Npc"
-	},
+    "disableAutoUpdate": false,
+    "name": "elin_npc",
+    "author": "Seren",
+    "description": "Change all town-based npcs to elin model. Customizable.",
+    "version": "1.0.0",
+    "options": {
+        "niceName":"Elin Npc"
+    },
     "servers": ["https://raw.githubusercontent.com/SerenTera/elin-npc/master/"]
 }
