@@ -1,11 +1,11 @@
 {
     "files": {
-		"config.json": {
+        "config.json": {
 			"hash":"0939c384e7556e9dc3a0b04bb4804f762111977bdc59e901011883262b48f482",
 			"overwrite":false
 		},
         "index.js": "b0504333d3a13ac1f76b118f73cd46d67b0c62f7c73897ae2e57a4a7ab4841a0",
-        "module.json": "f849c36bb75e4547beb933b3d82b6a410afc09070024d73127bd5b16cd67dd3b"
+        "module.json": "9bbff48f4453d423b38513198c6fbf6782da70bb931a455b5ce8677b15693182"
     },
     "defs": {
         "S_LOAD_TOPO": 3,
