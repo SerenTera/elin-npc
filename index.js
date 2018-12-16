@@ -16,7 +16,7 @@ module.exports = function elinNpc(mod) {
 		inDungeon = event.zone > 9000
 	})
 	
-	mod.hook('S_SPAWN_NPC', 9 , event => {
+	mod.hook('S_SPAWN_NPC', 10 , event => {
 		if(!enabled || inDungeon) return
 		if(event.villager && event.owner == 0) {
 			event.shapeId = shapeId[Math.floor(Math.random() * length)]
