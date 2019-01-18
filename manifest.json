@@ -2,13 +2,13 @@
     "files": {
         "config.json": {
 			"hash":"0939c384e7556e9dc3a0b04bb4804f762111977bdc59e901011883262b48f482",
-			"overwrite":false
+			"overwrite": false
 		},
-        "index.js": "b0504333d3a13ac1f76b118f73cd46d67b0c62f7c73897ae2e57a4a7ab4841a0",
+        "index.js": "0fda617da460714618428960d8ce003ad417277f4a3a7e2fb73103ecddf87590",
         "module.json": "9bbff48f4453d423b38513198c6fbf6782da70bb931a455b5ce8677b15693182"
     },
     "defs": {
         "S_LOAD_TOPO": 3,
-        "S_SPAWN_NPC": 10
+        "S_SPAWN_NPC": [10,11]
     }
 }
